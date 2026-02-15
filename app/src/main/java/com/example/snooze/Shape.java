@@ -2,6 +2,5 @@ package com.example.snooze;
 
 public abstract class Shape
 {
-    public abstract float getArea();
-
+    int x, y;
 }
