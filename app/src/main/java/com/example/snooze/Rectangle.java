@@ -10,6 +10,4 @@ public class Rectangle extends Shape
         this.length = length;
         this.width = width;
     }
-
-
 }
