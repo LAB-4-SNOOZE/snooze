@@ -1,5 +1,6 @@
 package com.example.snooze;
 
+//Rectangle
 public class Rectangle extends Shape
 {
     int length;
