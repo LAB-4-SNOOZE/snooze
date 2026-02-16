@@ -8,5 +8,7 @@ public class Square extends Shape
         this.side = side;
     }
 
+    int area;
+
 
 }
